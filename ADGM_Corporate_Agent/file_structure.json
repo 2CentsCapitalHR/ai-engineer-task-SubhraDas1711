@@ -1,0 +1,26 @@
+{
+  "project_name": "ADGM_Corporate_Agent",
+  "total_files": 13,
+  "files": [
+    "app.py",
+    "config.py",
+    "requirements.txt",
+    "src/document_parser.py",
+    "src/rag_system.py",
+    "src/document_validator.py",
+    "src/compliance_checker.py",
+    "src/report_generator.py",
+    "src/__init__.py",
+    "README.md",
+    "setup.py",
+    "run.py",
+    ".env.template"
+  ],
+  "instructions": [
+    "Download all files",
+    "Create project folder: ADGM_Corporate_Agent/",
+    "Extract files maintaining directory structure",
+    "Run: python run.py",
+    "Open: http://localhost:7860"
+  ]
+}
